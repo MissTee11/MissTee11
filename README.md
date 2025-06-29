@@ -20,6 +20,16 @@ Welcome to my GitHub! I'm a passionate and growth-driven **Computer Engineering 
 
 ---
 
+## 🛠 Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+
 ## 💼 Projects I'm proud of
 - 🏥 **Hospital Management System** – A full-stack app (React + Node.js + PostgreSQL) with an admin dashboard for managing patients, staff, rooms, billing, and medical records
 - 🛒 **E-commerce App** – Built with React, Redux, and Axios for product browsing and cart management
