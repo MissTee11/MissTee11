@@ -1,4 +1,4 @@
-# 👋 Hi, I’m MissTee11
+# 👋 Hi, I’m Tariro.
 
 Welcome to my GitHub! I'm a passionate and growth-driven **Computer Engineering student** who loves building real-world projects, especially in **web development** and **full-stack applications**.
 
