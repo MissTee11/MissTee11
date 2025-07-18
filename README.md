@@ -48,7 +48,7 @@ Welcome to my GitHub! I'm a passionate and growth-driven **Computer Engineering 
 
 ## 📫 How to reach me
 - 📧 Email: zizhtarie@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/tariro-zizhou-097b03252?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJxnww6%2FoTbyIJF0aa7qJyQ%3D%3D
+- 💼 LinkedIn: https:www.linkedin.com/in/tariro-zizhou-097b03252
 - 🖥️ Portfolio: https://misstarie.netlify.app/
 
 ---
